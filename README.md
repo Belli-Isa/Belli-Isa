@@ -8,6 +8,6 @@ My name is Isabelli
 
   ### Você entra em contato comigo:
   
-  Isabellicetanopereira@gmail.com
+  Isabellicetanopereira2008@gmail.com
 
 ![](https://media1.tenor.com/m/JMQZkmOTmx8AAAAd/bye-goodbye.gif)
