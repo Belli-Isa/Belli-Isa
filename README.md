@@ -2,7 +2,7 @@
 
 My name is Isabelli
 
-- Estou estudando na [Alura](https://www.alura.com.br)
+- Estudei com a [Alura](https://www.alura.com.br)
 - Estou aprendendo a linguagem JavaScript;
 - Utilizarei esse espaço para organização e desenvolvimento de projetos.
 
