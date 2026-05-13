@@ -2,8 +2,9 @@
 
 My name is Isabelli
 
+- Graduanda da Fatec Campinas (1°Semestre)
 - Estudei com a [Alura](https://www.alura.com.br)
-- Estou aprendendo a linguagem JavaScript(HTML e CSS), Python e Linguagem C;
+- Estou aprendendo as linguagens JavaScript(HTML e CSS), Python e Linguagem C;
 - Utilizarei esse espaço para organização e desenvolvimento de projetos.
 
   ### Você entra em contato comigo:
