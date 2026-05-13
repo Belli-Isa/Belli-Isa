@@ -22,6 +22,6 @@ Utilizo este espaço para documentar minha evolução acadêmica na Fatec e dese
 📧 **E-mail:** Isabellicaetanopereira.pro@gmail.com
 💼 [Meu LinkedIn](www.linkedin.com/in/isabelli-caetano-pereira-9a2633355)
 
-## :) Nos vemos por a!
+## :) Nos vemos por aí!
 
 ![](https://media1.tenor.com/m/JMQZkmOTmx8AAAAd/bye-goodbye.gif)
