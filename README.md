@@ -6,7 +6,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas na Fatec Campinas** (1º S
 - 🎓 Recém-formada pela **Escola Estadual Culto à Ciência**.
 - 🔬 Ex-voluntária do **PIBIC-EM (Unicamp/CIVILIS)**, com foco em análise de dados e rigor metodológico.
 - 💻 Atualmente mergulhando no mundo da **Cibersegurança, Inteligência Artificial e Desenvolvimento de Software e Jogos**.
-- 📚 Aprendizado contínuo através da **Alura** e da graduação.
+- 📚 Aprendizado contínuo através da graduação e de forma autônoma.
 
 ### 🛠️ Toolbox (Linguagens e Ferramentas)
 - **Web:** JavaScript, HTML e CSS.
