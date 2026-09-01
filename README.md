@@ -1,6 +1,6 @@
 # Olá, eu sou a Isabelli! 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas na Fatec Campinas** (2º Semestre) e entusiasta de tecnologia com foco em Desenvolvimento Web e Games. 
+Estudante de **Análise e Desenvolvimento de Sistemas na Fatec Campinas** (2º Semestre) e entusiasta de tecnologia com foco em Desenvolvimento Web.
 
 ### 🚀 Sobre Mim
 - 🎓 Recém-formada pela **Escola Estadual Culto à Ciência**.
