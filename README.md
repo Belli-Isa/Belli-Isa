@@ -1,16 +1,16 @@
 # Olá, eu sou a Isabelli! 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas na Fatec Campinas** (2º Semestre) e entusiasta de tecnologia com foco em inovação e segurança. 
+Estudante de **Análise e Desenvolvimento de Sistemas na Fatec Campinas** (2º Semestre) e entusiasta de tecnologia com foco em Desenvolvimento Web e Games. 
 
 ### 🚀 Sobre Mim
 - 🎓 Recém-formada pela **Escola Estadual Culto à Ciência**.
 - 🔬 Ex-voluntária do **PIBIC-EM (Unicamp/CIVILIS)**, com foco em análise de dados e rigor metodológico.
-- 💻 Atualmente mergulhando no mundo da **Cibersegurança, Inteligência Artificial e Desenvolvimento de Software e Jogos**.
+- 💻 Atualmente com interesse de aprendizado no mundo da **Cibersegurança, Inteligência Artificial e Desenvolvimento Web e Jogos**.
 - 📚 Aprendizado contínuo através da graduação e de forma autônoma.
 
-### 🛠️ Toolbox (Linguagens e Ferramentas)
+### 🛠️ Toolbox (Linguagens e Ferramentas em aprendizagem)
 - **Web:** JavaScript, HTML e CSS.
-- **Backend/Ciência de Dados:** Python e Linguagem C.
+- **Backend:** Python e Linguagem C.
 - **Competências:** Lógica de programação, Escrita Técnica (Abstracts/Relatórios), trabalho em grupo.
 
 ### 📂 No que estou trabalhando?
